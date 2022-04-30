@@ -1,8 +1,8 @@
 # Software as a Service Infrastructure
 ```mermaid
 flowchart LR
-A[Cointel Repo] --> B(Cointel API)
-B --> C{Cointel Docker Image}
+A[Cointel Repo] --> B(Cointel Docker Image)
+B --> C{Cointel API}
 C -->|BI Integration| D[Tableau]
 C -->|BI Integration| E[Looker]
 C -->|BI Integration| F[Power BI]
