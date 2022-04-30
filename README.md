@@ -7,7 +7,7 @@ C -->|BI Integration| D[Tableau]
 C -->|BI Integration| E[Looker]
 C -->|BI Integration| F[Power BI]
 ```
-# Products & Lifecycles
+# Software Products & Lifecycles
 | Product | Description | Product Lifecycle |
 |---|---|---|
 | [cointel-api](https://cointel-api.herokuapp.com/__docs__/) | 💡 Cointel's Free Api | production |
