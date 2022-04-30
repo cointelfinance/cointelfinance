@@ -1,4 +1,4 @@
-# Data as a Service Infrastructure
+# Software as a Service Infrastructure
 ```mermaid
 flowchart LR
 A[Cointel Repo] --> B(Cointel API)
