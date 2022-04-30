@@ -1,4 +1,3 @@
-<p align="center">
 # Data as a Service Infrastructure
 ```mermaid
 flowchart LR
@@ -15,7 +14,6 @@ C -->|BI Integration| F[Power BI]
 | [cointel-app](https://github.com/cointelfinance/cointel-api) | ⏬ Cointel's App | beta |
 | [request-cointel](https://github.com/cointelfinance/request) | ✅ Request a Cointel Account | production |
 
-</p>
 <!--
 **cointelfinance/cointelfinance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
