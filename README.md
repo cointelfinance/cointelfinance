@@ -4,6 +4,16 @@
 | [cointel-api](https://cointel-api.herokuapp.com/__docs__/) | 💡 Cointel's Free Api | production |
 | [cointel-app](https://github.com/cointelfinance/cointel-api) | ⏬ Cointel's App | beta |
 | [request-cointel](https://github.com/cointelfinance/request) | ✅ Request a Cointel Account | production |
+
+```mermaid
+flowchart LR
+A[Cointel Repo] --> B(Cointel API)
+B --> C{Cointel Docker}
+C -->|BI Integration| D[Tableau]
+C -->|BI Integration| E[Looker]
+C -->|BI Integration| F[Power BI]
+```
+
 <!--
 **cointelfinance/cointelfinance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
