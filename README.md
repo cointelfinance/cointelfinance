@@ -1,3 +1,5 @@
+# Cointel's Technical Product Overview
+
 # Products & Lifecycles
 | Product | Description | Product Lifecycle |
 |---|---|---|
@@ -5,6 +7,7 @@
 | [cointel-app](https://github.com/cointelfinance/cointel-api) | ⏬ Cointel's App | beta |
 | [request-cointel](https://github.com/cointelfinance/request) | ✅ Request a Cointel Account | production |
 
+# Data as a Service Infrastructure
 ```mermaid
 flowchart LR
 A[Cointel Repo] --> B(Cointel API)
